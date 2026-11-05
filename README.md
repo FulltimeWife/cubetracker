@@ -30,20 +30,13 @@ Even though a double greed implies the existence of a single greed win, I've opt
 
 3. Run the executable.
 
-- If windows says "this file is untrusted", it's because it's not signed, just click run anyway.
-
-4. Upon launch, the following is generated:
-
-- `config.json` This file controls the config of the tracker & is what determines what you see, it's also what the context menu reads from (right click the tracker).
-- When the tracker detects the first cube interaction, then `cube_counts.json` is generated, this file contains the actual statistics recorded thus far.
-
 ## Configuration
 
 By default the tracker displays all of the information available, you can right click to bring up a context menu which displays the following:
 
 - `View Layout`, this allows you to control which sections you see, All, Greeds Only or Loot Only.
-- `Loot Visibility`, this allows you to pick & choose which loot tiles get shown, so you can show/hide which ones you care about/don't
-- `Statistics Visibility`, this allows you to toggle the statistics on/off, currently there's only the greed average, but when more are added, it'll function the same as Loot Visibility.
+- `Loot Visibility`, this allows you to pick & choose which loot tiles get shown.
+- `Statistics Visibility`, this allows you to toggle the statistics on/off.
 - `Always on Top`, this allows the tracker to stay ontop of windows rather than going behind them when the application behind is clicked.
 
 ## FAQ
