@@ -16,10 +16,10 @@ A lightweight overlay for **Torchlight: Infinite** that reads the game's log fil
 
 With the **per greed stats** currently it works like so:
 
-Single Greed (win) -> claim: Single Greed +1, Cubes done +1
-Single Greed (win), Double Greed (fail) -> Single Greed +1, Greed Failure +1
-Single Greed (win), Double Greed (win) -> Single Greed +1, Double Greed +1
-Single Greed (fail) -> Greed Failure +1
+Single Greed (win) -> claim: Single Greed +1, Cubes done +1 <br>
+Single Greed (win), Double Greed (fail) -> Single Greed +1, Greed Failure +1 <br>
+Single Greed (win), Double Greed (win) -> Single Greed +1, Double Greed +1 <br>
+Single Greed (fail) -> Greed Failure +1 <br>
 
 The reason this is designed this way, is so that people can see how many times they've actually won in their respective greeds.
 
