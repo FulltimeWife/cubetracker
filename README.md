@@ -1,9 +1,3 @@
-# Disclaimers
-
-**This is a work in progress, for fun program, if stuff doesn't work or there's bugs or something, don't pitchfork me over it**
-
-**I am not affiliated with XD Entertainment in any way, I do not own the rights for the assets used in the tool. All rights belong to XD Entertainment**
-
 # Cube Tracker
 
 A lightweight overlay for **Torchlight: Infinite** that reads the game's log file and displays various stuff related to Cubert:
@@ -23,7 +17,7 @@ Single Greed (fail) -> Greed Failure +1 <br>
 
 The reason this is designed this way, is so that people can see how many times they've actually won in their respective greeds.
 
-Even though a double greed implies the existence of a single greed win, I've opted for the tracker to show it as us.
+Even though a double greed implies the existence of a single greed win, I've opted for the tracker to show it as is.
 
 ---
 
@@ -64,3 +58,9 @@ There's two questions here, to which both answers are yes
 
 - If you are asking is this bannable? No, it's not, it just reads from the log files.
 - If you are asking if your data is being sent somewhere? No, it's not, the entire tracker is offline, there's no telemetry or user data being sent anywhere, I cannot see anything you do with the tracker, nor does the tracker report any data to me.
+
+# Disclaimers
+
+**This is a work in progress, for fun program, if stuff doesn't work or there's bugs or something, don't pitchfork me over it**
+
+**I am not affiliated with XD Entertainment in any way, I do not own the rights for the assets used in the tool. All rights belong to XD Entertainment**
